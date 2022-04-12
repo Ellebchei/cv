@@ -1,0 +1,21 @@
+body
+{
+  background-color: #06113C; 
+  color: #EEEEEE;
+  font-family: "Roboto", Geneva, Tahoma, sans-serif;
+}
+
+hr 
+{
+  border-style: none;
+  border-top-style:dotted;
+  color: #FF8C32;
+  height: 2px;
+  width: 5%;
+  border-width: thick;
+}
+
+h1,h3
+{
+    color: #DDDDDD; 
+}
